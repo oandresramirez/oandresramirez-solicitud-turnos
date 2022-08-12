@@ -1,0 +1,197 @@
+.center-logo {
+    text-align: center;
+}
+
+
+.disenio-icon-index {
+    left: 0px;
+    width: 429px;
+    height: 137px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 3px 3px 63px 3px;
+    opacity: 1;
+
+    img {
+        padding: 40px;
+    }
+}
+
+.disenio-icon-index-2 {
+    left: 0px;
+    width: 429px;
+    height: 70px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 5px 0px 7px #00000029;
+    border-radius: 0px 3px 63px 3px;
+    opacity: 1;
+
+    img {
+        padding-top: 6px;
+    }
+}
+
+.text-t-1 {
+    top: 0px;
+    left: 0px;
+    width: 243px;
+    height: 28px;
+    text-align: left;
+    font: normal normal 900 23px/30px Lato;
+    letter-spacing: 0px;
+    color: #1F9547;
+}
+
+.text-t-2 {
+    left: 0px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 200 23px/30px Lato;
+    letter-spacing: 0px;
+    color: #1F9547;
+}
+
+.text-t-3 {
+    text-align: left;
+    font: normal normal 300 18px/30px Lato;
+    letter-spacing: 0px;
+    color: #2D2D2D;
+    opacity: 1;
+}
+
+.text-t-4 {
+    top: 371px;
+    left: 104px;
+    width: 28px;
+    height: 28px;
+    background: #1F9547 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 20px;
+
+    div {
+        padding-top: 6px;
+        padding-left: 11px;
+        width: 8px;
+        height: 16px;
+        text-align: left;
+        font: normal normal 900 13px/17px Lato;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+}
+
+.content-index {
+    width: 100%;
+    padding-top: 80px;
+}
+
+.btn-solicitud {
+    top: 40px;
+    width: 319px;
+    height: 40px;
+    background-color: #3F3F41 !important;
+    border-radius: 31px !important;
+    opacity: 1;
+    color: white !important;
+}
+
+.navb-solicitud-turno {
+    width: 100%;
+    height: 70% !important;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+    color: green !important;
+}
+
+.Mui-active {
+    color: green !important;
+}
+
+.css-ivnu1y-MuiPaper-root-MuiAppBar-root {
+    width: 100%;
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 0px;
+    opacity: 1;
+}
+
+.map-g {
+    width: 80em !important;
+    height: 50em !important;
+}
+
+.title-solic {
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 900 23px/26px Lato;
+    letter-spacing: 0px;
+    color: #1F9547;
+    opacity: 1;
+    padding-left: 50px;
+}
+
+.title-form {
+    left: 0px !important;
+    text-align: left !important;
+    font: normal normal 900 26px/30px Lato;
+    letter-spacing: 0px;
+    color: #1F9547;
+    opacity: 1;
+}
+
+.center-btn-sig {
+    text-align: center;
+    width: 100%;
+}
+
+.title-netux {
+    width: 23px;
+    height: 18px;
+    background: #191919 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.search-ap {
+    background: #EFEFEF 0% 0% no-repeat padding-box !important;
+    border-radius: 19px !important;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    width: 25% !important;
+    border-radius: 30px !important;
+}
+
+.content-dialog {
+    width: 100% !important;
+}
+
+.title-dialog {
+    text-align: center;
+    font: normal normal 900 25px/30px Lato;
+    letter-spacing: 0px;
+    color: #1F9547;
+    opacity: 1;
+}
+
+.btn-solicitud-dialog {
+    border: 2px solid #1F9547 !important;
+    color: #1F9547 !important;
+    border-radius: 31px !important;
+    opacity: 1 !important;
+}
+
+.btn-solicitud-dialog-azul {
+    border: 2px solid !important;
+    border-radius: 31px !important;
+    opacity: 1 !important;
+}
+
+
+@media (min-width: 360px) and (max-width:900px) {
+    .css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+        width: 100% !important;
+        border-radius: 30px !important;
+    }
+}
